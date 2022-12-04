@@ -1,0 +1,15 @@
+input[type=range][orient=vertical]
+{
+    writing-mode: bt-lr; /* IE */
+    -webkit-appearance: slider-vertical; 
+    /* Chromium */
+    width: 8px;
+    height: 175px;
+    padding: 0 5px;
+
+}
+.pedal {
+    /* background-color: red; */
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
